@@ -1,0 +1,8 @@
+com\mycomp\firstapp\controller\AddController.class
+com\mycomp\firstapp\service\MyService.class
+com\mycomp\firstapp\config\AppConfig.class
+com\mycomp\firstapp\controller\MyController.class
+com\mycomp\firstapp\dto\MyReq.class
+com\mycomp\firstapp\FirstappApplication.class
+com\mycomp\firstapp\pojo\NumReq.class
+com\mycomp\firstapp\service\Impl\MyServiceImpl.class
